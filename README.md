@@ -3,6 +3,12 @@
 This repository contains codes and notebooks for the Pacific RCC (Regional Climate Centre) ENSO tracker and other 
 products. 
 
+Any questions: 
+
+For any questions, please contact [Nicolas Fauchereau](mailto:nicolas.fauchereau@niwa.co.nz)
+
+Content:
+
 in `notebooks`
 
 - `Pacific_RCC_ENSO_tracker.ipynb`: the ENSO tracker 
