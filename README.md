@@ -3,7 +3,9 @@
 This repository contains codes and notebooks for the Pacific RCC (Regional Climate Centre) ENSO tracker and other 
 products. 
 
-Any questions: 
+The ENSO tracker is a Pacific Islands - Regional Climate Centre Network product, maintained by [NIWA](http://www.niwa.co.nz) as part of its contribution to the climate monitoring node and available at: 
+
+[https://www.pacificmet.net/enso-tracker](https://www.pacificmet.net/enso-tracker)
 
 For any questions, please contact [Nicolas Fauchereau](mailto:nicolas.fauchereau@niwa.co.nz)
 
